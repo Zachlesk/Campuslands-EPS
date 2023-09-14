@@ -1,0 +1,74 @@
+[
+    {
+        "usu_nombre": "Diego",
+        "usu_segdo_nombre": "Fernando",
+        "usu_primer_apellido_usuar": "Aceros",
+        "usu_segdo_apellido_usuar": "Villalba",
+        "usu_telefono": "3107693412",
+        "usu_direccion": "Carrera 20 #89-7 Barrio Lagos II",
+        "usu_e-mail": "isomorphismay@gmail.com",
+        "usu_tipodoc": ObjectId("6503007ecd204c9279ede6d2"),
+        "usu_genero": ObjectId("65030091cd204c9279ede6da"),
+        "usu_acudiente": ObjectId("6503024acd204c9279ede6e2")
+    },
+    {
+        "usu_nombre": "Zharick",
+        "usu_segdo_nombre": "Andre",
+        "usu_primer_apellido_usuar": "Rojas",
+        "usu_segdo_apellido_usuar": "Ardila",
+        "usu_telefono": "3107534094",
+        "usu_direccion": "Calle 105A #15b-46 Barrio Villa Sara",
+        "usu_e-mail": "zharojas23@gmail.com",
+        "usu_tipodoc": ObjectId("6503007ecd204c9279ede6d2"),
+        "usu_genero": ObjectId("65030091cd204c9279ede6d9"),
+        "usu_acudiente": ObjectId("6503024acd204c9279ede6dd")
+    },
+    {
+        "usu_nombre": "Eduardo",
+        "usu_segdo_nombre": "Andres",
+        "usu_primer_apellido_usuar": "Bustamante",
+        "usu_segdo_apellido_usuar": "Rodriguez",
+        "usu_telefono": "3161839405",
+        "usu_direccion": "Calle 27 #78-90 Barrio San Alonso",
+        "usu_e-mail": "edlionheart@gmail.com",
+        "usu_tipodoc": ObjectId("6503007ecd204c9279ede6d2"),
+        "usu_genero": ObjectId("65030091cd204c9279ede6da"),
+        "usu_acudiente": ObjectId("6503024acd204c9279ede6e1")
+    },
+    {
+        "usu_nombre": "Brayan",
+        "usu_segdo_nombre": "Eliecer",
+        "usu_primer_apellido_usuar": "Mendez",
+        "usu_segdo_apellido_usuar": "Muñoz",
+        "usu_telefono": "3107895432",
+        "usu_direccion": "Carrera 12 #45-4 Barrio La Esperanza II",
+        "usu_e-mail": "xmansitoxp@gmail.com",
+        "usu_tipodoc": ObjectId("6503007ecd204c9279ede6d3"),
+        "usu_genero": ObjectId("65030091cd204c9279ede6da"),
+        "usu_acudiente": ObjectId("6503024acd204c9279ede6de")
+    },
+    {
+        "usu_nombre": "Luz",
+        "usu_segdo_nombre": "Yanith",
+        "usu_primer_apellido_usuar": "Vargas",
+        "usu_segdo_apellido_usuar": "Carrero",
+        "usu_telefono": "3015642980",
+        "usu_direccion": "Carrera 1 #67-18 Barrio Primero de Mayo",
+        "usu_e-mail": "luxana@gmail.com",
+        "usu_tipodoc": ObjectId("6503007ecd204c9279ede6d5"),
+        "usu_genero": ObjectId("65030091cd204c9279ede6d9"),
+        "usu_acudiente": ObjectId("6503024acd204c9279ede6df")
+    },
+    {
+        "usu_nombre": "Leticia",
+        "usu_segdo_nombre": "Janeth",
+        "usu_primer_apellido_usuar": "Rojas",
+        "usu_segdo_apellido_usuar": "Carrero",
+        "usu_telefono": "3671824547",
+        "usu_direccion": "Calle 30A 78-18 Barrio La Isla",
+        "usu_e-mail": "letis@gmail.com",
+        "usu_tipodoc": ObjectId("6503007ecd204c9279ede6d6"),
+        "usu_genero": ObjectId("65030091cd204c9279ede6d9"),
+        "usu_acudiente": ObjectId("6503024acd204c9279ede6e3")
+    }
+]

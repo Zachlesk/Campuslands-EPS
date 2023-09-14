@@ -1,0 +1,17 @@
+[
+    {
+        "estcita_nombre": "Programada"
+    },
+    {
+        "estcita_nombre": "Confirmada"
+    },
+    {
+        "estcita_nombre": "En curso"
+    },
+    {
+        "estcita_nombre": "Atendida"
+    },
+    {
+        "estcita_nombre": "Cancelada"
+    }
+]

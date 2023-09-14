@@ -1,0 +1,26 @@
+[
+    {
+        "tipodoc_nombre": "Cedula de Ciudadania",
+        "tipodoc_abreviatura": "CC"
+    },
+    {
+        "tipodoc_nombre": "Tarjeta de Identidad",
+        "tipodoc_abreviatura": "TI"
+    },
+    {
+        "tipodoc_nombre": "Registro Civil",
+        "tipodoc_abreviatura": "RC"
+    },
+    {
+        "tipodoc_nombre": "Cedula de Extranjeria",
+        "tipodoc_abreviatura": "CE"
+    },
+    {
+        "tipodoc_nombre": "Carné de Identidad",
+        "tipodoc_abreviatura": "CI"
+    },
+    {
+        "tipodoc_nombre": "Documento Nacional de Identidad (DNI)",
+        "tipodoc_abreviatura": "DNI"
+    }
+]

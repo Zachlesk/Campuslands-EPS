@@ -1,0 +1,32 @@
+[
+    {
+        "esp_nombre": "Cardiología"
+    },
+    {
+        "esp_nombre": "Medicina general"
+    },
+    {
+        "esp_nombre": "Pediatría"
+    },
+    {
+        "esp_nombre": "Ginecología"
+    },
+    {
+        "esp_nombre": "Neurología"
+    },
+    {
+        "esp_nombre": "Ortopedia"
+    },
+    {
+        "esp_nombre": "Psiquiatria"
+    },
+    {
+        "esp_nombre": "Oncología"
+    },
+    {
+        "esp_nombre": "Dermatología"
+    },
+    {
+        "esp_nombre": "Medicina traumatica"
+    }
+]
